@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  background-color: #c4f738;
+  background-color: #eeff04;
 }
 
 .quem-somos {
@@ -13,4 +13,9 @@ body {
 
 .margin {
   padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.parceiros {
+  background-color: aqua;
 }
