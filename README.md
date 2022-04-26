@@ -4,3 +4,4 @@
 - [x] Criando containers personalizados com o Bootstrap.
 - [x] Trabalhando com imagens dentro de containers.
 - [x] Criando uma lista de navegação com imagens.
+- [x] Inserindo imagens e o footer na página. 
